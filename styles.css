@@ -806,10 +806,9 @@ h1 .mean {
 	margin: 30px 0;
 	}
 	#main , .main-buy {
-	padding-left: 4%;
-	padding-right: 4%;
-	padding-bottom: 5%;
-	max-width: 300px;
+	padding-left: 6%;
+    padding-right: 6%;
+    padding-bottom: 5%;
 	}
 	.deliver-main{
 	padding-left: 4%;
@@ -862,6 +861,9 @@ h1 .mean {
 	}
 	.cubes-name {
 		top: 23px;
+	}
+	.ssWrapper {
+		display: none;
 	}
 	.sales-cont , .for-you-cont{
 		width: 100%;
